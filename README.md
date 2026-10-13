@@ -15,6 +15,10 @@ The project transforms raw data into meaningful business insights through data c
 - Monitor monthly, daily, and weekly sales trends.
 - Build an interactive dashboard to support data-driven decision-making.
 
+## Dataset Link
+
+ -https://drive.google.com/file/d/1rp8E8trlgVZbbvIBM0CJjdIGASfp8zBt/view?usp=sharing
+
 ## 🛠️ Tools & Technologies
 
 - **Microsoft Excel**
